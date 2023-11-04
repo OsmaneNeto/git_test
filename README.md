@@ -1,2 +1,6 @@
-# git_test
-teste de git com finalidade para estudo
+# curso Digital: Git/versionamento
+
+# salvando alterações no git
+
+* git push
+* git pull
